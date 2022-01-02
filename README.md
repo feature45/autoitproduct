@@ -32,7 +32,7 @@ GUI and some file functions<br>
 <img src = "https://github.com/maoleng/media/blob/huuloc/autoitProduct/review_gui_save_account.gif?raw=true">
 
 
-## GUI Disable Enable Task Manager
+## GUI Disable/Enable Task Manager
 Registry function<br>
 <img src = "https://github.com/maoleng/media/blob/huuloc/autoitProduct/review_gui_enable_disable_task_manager.gif?raw=true"> 
 
